@@ -1,1 +1,2 @@
-# Expense_Tracker
+The Expense Tracker App
+
